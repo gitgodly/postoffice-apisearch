@@ -7,7 +7,6 @@ $(document).ready(
     });
 
 
-
 function initSearch(sr) {
 
     var src= sr.find("input").first();
