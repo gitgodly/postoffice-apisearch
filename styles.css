@@ -1,0 +1,43 @@
+.main
+{
+    width: 900px;;
+    margin: 10% auto;
+}
+.search-panel
+{
+    position: relative;
+}
+.search-panel-body
+{
+    position: relative;
+    border: solid 1px #aaa;
+    top: 1px;
+    left: 10px;;
+    max-width: 450px;
+    display: none;
+    -webkit-box-shadow: 6px 6px 5px -1px rgba(0,0,0,0.27);
+    -moz-box-shadow: 6px 6px 5px -1px rgba(0,0,0,0.27);
+    box-shadow: 6px 6px 5px -1px rgba(0,0,0,0.27);
+    border-radius: 3px;
+}
+.search-panel-body > div
+{
+    padding: 0;
+    margin: 0;
+    border-bottom: 1px solid #d9d9d9;
+}
+.search-panel-body > div:hover
+{
+    background-color: #e1e1e1;
+    color: #000;
+}
+.search-panel-body > div:last-child
+{
+    border: none;
+}
+.search-panel-body div > label
+{
+    padding: 5px 10px;
+    color: #4a4a4a;
+    display: block;
+}
