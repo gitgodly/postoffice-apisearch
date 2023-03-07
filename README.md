@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/keyz/keyz/blame/main/thonk.svg">
-    <img src="https://github.com/keyz/keyz/blame/main/thonk.svg" width="720" height="480">
+    <img src="https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg" width="720" height="480">
   </a>
 </div>
 
